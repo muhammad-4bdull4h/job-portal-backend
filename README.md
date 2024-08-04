@@ -10,7 +10,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-follow%20me-blue?logo=facebook&logoColor=white)](https://www.facebook.com/abdullah.rafique.5891?mibextid=ZbWKwL)
 
 # job-portal-frontend
-## Description
+## Description  
 
 This is the frontend api for my full stack job seeking website project with several features for both recruiters and job seekers with saperate account managements and many more.
 
