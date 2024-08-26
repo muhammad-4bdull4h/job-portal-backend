@@ -1,4 +1,4 @@
-# <job-portal-frontend>
+# <job-portal-backcend>
 
 
 ![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
@@ -12,7 +12,7 @@
 # job-portal-frontend
 ## Description  
 
-This is the frontend api for my full stack job seeking website project with several features for both recruiters and job seekers with saperate account managements and many more.
+This is the backend api for my full stack job seeking website project with several features for both recruiters and job seekers with saperate account managements and many more.
 
 
 ## Table of Contents
